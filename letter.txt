@@ -1,0 +1,9 @@
+Bonjour les Ă©tudiants!
+This is a sample file similar to the one that will
+be used to test your projects. It contains spelling mistakes  
+in  varoius languages. 
+It will help for testing and developping your software,
+un petit peu plus d'efort et se sera bientĂ´t la fin du semestre,
+estudiar mucho, la perseverencia es la clave del Ă©xito. 
+Have fun!
+Professor Polizzi
